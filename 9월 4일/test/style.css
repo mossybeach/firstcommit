@@ -1,0 +1,58 @@
+#bigbox {
+  width: 500px;
+  height: 850px;
+  margin: 10px auto;
+  border: 1px solid black;
+}
+header h1 {
+  text-align: center;
+  margin-top: 40px;
+}
+header h5 {
+  text-align: center;
+}
+hr {
+  width: 400px;
+}
+#detail h5 {
+  margin-left: 20px;
+}
+#detail form {
+  margin-left: 30px;
+}
+#apply h5 {
+  margin-left: 20px;
+}
+#apply form {
+  margin-left: 30px;
+}
+#lang h5 {
+  margin-left: 20px;
+}
+table,
+tr,
+th,
+td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+  margin-left: 20px;
+  width: 450px;
+  text-align: center;
+  font-size: small;
+  padding: 5px;
+}
+#reason h5 {
+  margin-left: 20px;
+}
+
+#reason form {
+  margin-left: 20px;
+}
+
+#but {
+  margin-left: 20px;
+}
+button {
+  padding: 5px;
+  width: 90px;
+}

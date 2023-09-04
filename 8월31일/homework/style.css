@@ -1,0 +1,39 @@
+body {
+  background-color: #fbd5dc;
+}
+
+div {
+  width: 350px;
+  margin: 100px auto;
+}
+header {
+  margin: 20px;
+}
+#iu {
+  border-radius: 10px;
+}
+main {
+  margin: 0 auto;
+  width: 300px;
+}
+table {
+  margin: 20px 30px;
+}
+#id {
+  border-radius: 10px;
+  font-weight: 800;
+}
+#pw {
+  border-radius: 10px;
+  font-weight: 800;
+}
+footer {
+  margin: 20px 95px;
+}
+#button {
+  border-color: red;
+  border-radius: 20px;
+  padding: 5px;
+  color: #830000;
+  font-weight: 800;
+}
